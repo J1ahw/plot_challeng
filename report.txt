@@ -1,0 +1,8 @@
+Conclusion One:
+With the pie chart of gender, we can tell gender is controlled before experiment. Male amount is almost same with female.
+
+Conclusion Two:
+With the liner plot of timepoint and Average Tumor Volume (mm3), it seems that Capomulin Treatment will decrease tumor after 20 timepoint. However, after 35 timepoint, the treatment will be useless.Tumor grows up again.
+
+Conclusion Three:
+With the Correlation and Regression plot, weight and tumor volume is strongly related because of 0.84 correlation. Also, if mouses gain 1g weight, the tumor volume will grow up 0.95 mm3
